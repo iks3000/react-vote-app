@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-movie-app/static/css/main.7aa5b42c.chunk.css",
-    "main.js": "/react-movie-app/static/js/main.89fe3f00.chunk.js",
-    "main.js.map": "/react-movie-app/static/js/main.89fe3f00.chunk.js.map",
-    "runtime-main.js": "/react-movie-app/static/js/runtime-main.343acaf3.js",
-    "runtime-main.js.map": "/react-movie-app/static/js/runtime-main.343acaf3.js.map",
-    "static/css/2.de424728.chunk.css": "/react-movie-app/static/css/2.de424728.chunk.css",
-    "static/js/2.51cad40c.chunk.js": "/react-movie-app/static/js/2.51cad40c.chunk.js",
-    "static/js/2.51cad40c.chunk.js.map": "/react-movie-app/static/js/2.51cad40c.chunk.js.map",
-    "index.html": "/react-movie-app/index.html",
-    "precache-manifest.db00b0ca5bf31002c4c63c0fc2829645.js": "/react-movie-app/precache-manifest.db00b0ca5bf31002c4c63c0fc2829645.js",
-    "service-worker.js": "/react-movie-app/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/react-movie-app/static/css/2.de424728.chunk.css.map",
-    "static/css/main.7aa5b42c.chunk.css.map": "/react-movie-app/static/css/main.7aa5b42c.chunk.css.map",
-    "static/js/2.51cad40c.chunk.js.LICENSE.txt": "/react-movie-app/static/js/2.51cad40c.chunk.js.LICENSE.txt"
+    "main.css": "/react-vote-app/static/css/main.7aa5b42c.chunk.css",
+    "main.js": "/react-vote-app/static/js/main.9680b63b.chunk.js",
+    "main.js.map": "/react-vote-app/static/js/main.9680b63b.chunk.js.map",
+    "runtime-main.js": "/react-vote-app/static/js/runtime-main.7faa2b93.js",
+    "runtime-main.js.map": "/react-vote-app/static/js/runtime-main.7faa2b93.js.map",
+    "static/css/2.de424728.chunk.css": "/react-vote-app/static/css/2.de424728.chunk.css",
+    "static/js/2.51cad40c.chunk.js": "/react-vote-app/static/js/2.51cad40c.chunk.js",
+    "static/js/2.51cad40c.chunk.js.map": "/react-vote-app/static/js/2.51cad40c.chunk.js.map",
+    "index.html": "/react-vote-app/index.html",
+    "precache-manifest.5a807c10e927e9b79eabf370f319c22b.js": "/react-vote-app/precache-manifest.5a807c10e927e9b79eabf370f319c22b.js",
+    "service-worker.js": "/react-vote-app/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/react-vote-app/static/css/2.de424728.chunk.css.map",
+    "static/css/main.7aa5b42c.chunk.css.map": "/react-vote-app/static/css/main.7aa5b42c.chunk.css.map",
+    "static/js/2.51cad40c.chunk.js.LICENSE.txt": "/react-vote-app/static/js/2.51cad40c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.343acaf3.js",
+    "static/js/runtime-main.7faa2b93.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.51cad40c.chunk.js",
     "static/css/main.7aa5b42c.chunk.css",
-    "static/js/main.89fe3f00.chunk.js"
+    "static/js/main.9680b63b.chunk.js"
   ]
 }
