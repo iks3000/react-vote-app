@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-vote-app/static/css/main.7aa5b42c.chunk.css",
-    "main.js": "/react-vote-app/static/js/main.9680b63b.chunk.js",
-    "main.js.map": "/react-vote-app/static/js/main.9680b63b.chunk.js.map",
+    "main.js": "/react-vote-app/static/js/main.e4b339ef.chunk.js",
+    "main.js.map": "/react-vote-app/static/js/main.e4b339ef.chunk.js.map",
     "runtime-main.js": "/react-vote-app/static/js/runtime-main.7faa2b93.js",
     "runtime-main.js.map": "/react-vote-app/static/js/runtime-main.7faa2b93.js.map",
     "static/css/2.de424728.chunk.css": "/react-vote-app/static/css/2.de424728.chunk.css",
     "static/js/2.51cad40c.chunk.js": "/react-vote-app/static/js/2.51cad40c.chunk.js",
     "static/js/2.51cad40c.chunk.js.map": "/react-vote-app/static/js/2.51cad40c.chunk.js.map",
     "index.html": "/react-vote-app/index.html",
-    "precache-manifest.5a807c10e927e9b79eabf370f319c22b.js": "/react-vote-app/precache-manifest.5a807c10e927e9b79eabf370f319c22b.js",
+    "precache-manifest.ed7ebb7b7b2b4a9400e2d46ba4d8a2f7.js": "/react-vote-app/precache-manifest.ed7ebb7b7b2b4a9400e2d46ba4d8a2f7.js",
     "service-worker.js": "/react-vote-app/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/react-vote-app/static/css/2.de424728.chunk.css.map",
     "static/css/main.7aa5b42c.chunk.css.map": "/react-vote-app/static/css/main.7aa5b42c.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.51cad40c.chunk.js",
     "static/css/main.7aa5b42c.chunk.css",
-    "static/js/main.9680b63b.chunk.js"
+    "static/js/main.e4b339ef.chunk.js"
   ]
 }
