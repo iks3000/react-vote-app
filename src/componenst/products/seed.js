@@ -12,8 +12,8 @@ export default  window.Seed = (function () {
                 description: 'On-demand sand castle construction expertise.',
                 url: '#',
                 votes: generateVoteCount(),
-                submitterAvatarUrl: 'images/avatars/daniel.jpg',
-                productImageUrl: 'images/products/image-aqua.png',
+            submitterAvatarUrl: 'react-vote-app/images/avatars/daniel.jpg',
+            productImageUrl: 'react-vote-app/images/products/image-aqua.png',
             },
             {
                 id: 2,
@@ -21,8 +21,8 @@ export default  window.Seed = (function () {
                 description: 'Earn points when your favorite politicians pass legislation.',
                 url: '#',
                 votes: generateVoteCount(),
-                submitterAvatarUrl: 'images/avatars/kristy.png',
-                productImageUrl: 'images/products/image-rose.png',
+                submitterAvatarUrl: 'react-vote-app/images/avatars/kristy.png',
+                productImageUrl: 'react-vote-app/images/products/image-rose.png',
             },
             {
                 id: 3,
@@ -30,8 +30,8 @@ export default  window.Seed = (function () {
                 description: 'We already have your measurements and shipping address.',
                 url: '#',
                 votes: generateVoteCount(),
-                submitterAvatarUrl: 'images/avatars/veronika.jpg',
-                productImageUrl: 'images/products/image-steel.png',
+                submitterAvatarUrl: 'react-vote-app/images/avatars/veronika.jpg',
+                productImageUrl: 'react-vote-app/images/products/image-steel.png',
             },
             {
                 id: 4,
@@ -39,8 +39,8 @@ export default  window.Seed = (function () {
                 description: 'High-minded or absent-minded? You decide.',
                 url: '#',
                 votes: generateVoteCount(),
-                submitterAvatarUrl: 'images/avatars/molly.png',
-                productImageUrl: 'images/products/image-yellow.png',
+                submitterAvatarUrl: 'react-vote-app/images/avatars/molly.png',
+                productImageUrl: 'react-vote-app/images/products/image-yellow.png',
             },
         ]
 
